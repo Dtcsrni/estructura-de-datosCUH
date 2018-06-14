@@ -1,7 +1,7 @@
 
 #-----------------------------------------------------------
 #Estructuras de datos
-#--Programa realizado por Erick Renato Vega Cerón de la Carrera Ingeniería en Sistemas, en el Centro Universitario Hidalguense
+#--Programa realizado por Erick Renato Vega Cerón de la Carrera Ingeniería en Sistemas Computacionales, en el Centro Universitario Hidalguense
 #--13 de junio de 2018 
 
 def altas():#Método para agregar contactos
