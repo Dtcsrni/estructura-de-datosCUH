@@ -1,7 +1,7 @@
 #Punto de Venta en Ventanas
 #Por Erick Renato Vega Ceron
 #30/Junio/2018
-#V2.0
+#V2.1
 
 
 from Tkinter import *
