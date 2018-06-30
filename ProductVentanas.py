@@ -11,7 +11,8 @@ opcion=""
 campos=[]
 global index
 negocio= "Erick Vega"
-
+archivo=open('productos.txt','a')
+archivo.close()
 
 def menu():
     global ventana
