@@ -24,7 +24,7 @@ def menu():
     ventana.configure(background='gray18')
     lblInicio=Label(text="||||||Bienvenido||||||", fg="darkgreen").place(x=140,y=20)
     lblInicio4=Label(text="Punto de Venta de "+negocio+"",fg="darkgreen").place(x=115,y=40)
-    blInicio2=Label(text="V 2.0", fg="darkgreen", bg="gray18").place(x=170,y=270)
+    blInicio2=Label(text="V 2.1", fg="darkgreen", bg="gray18").place(x=170,y=270)
     lblInicio3=Label(text="Elija la opcion a realizar: ").place(x=130,y=100)
     boton1= Button(ventana, text="+ |Altas| +", width=10, command=altas).place(x=150,y=130)
     boton1= Button(ventana, text="° |Consultas| °", width=10, command=consultas).place(x=150,y=160)
